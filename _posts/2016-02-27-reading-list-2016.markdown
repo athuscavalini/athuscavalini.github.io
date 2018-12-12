@@ -4,6 +4,7 @@ layout: post
 tag: papers
 img: indigo/indigo.png
 blog: true
+draft: true
 author: Niveditha Ram
 summary: "List of papers in different fields of physics that I have enjoyed reading."
 permalink: reading-list

@@ -28,13 +28,13 @@ highlighter: rouge
 # facebook: myfacebook
 twitter: athus
 # google: mygoogle
-# instagram: myinstagram
+instagram: athuscavalini
 #pinterest: annasw
-#linkedin: artiannaswamy
+linkedin: athuscavalini
 # youtube: myyoutube
 # spotify: myspotify
 github: athuscavalini
-# medium: medium
+medium: athuscavalini
 email: athus@mail.com
 
 authors:
@@ -58,7 +58,7 @@ width: large
 # if you don't need projects, comment the *projects* configs below
 projects: true
 # research: true
-teaching: true
+# teaching: true
 # if you don't need about or blog, comment them out below
 about: true
 blog: true

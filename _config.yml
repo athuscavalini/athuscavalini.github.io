@@ -3,7 +3,7 @@ name: Athus Cavalini
 bio: ...
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Crazy things
 
 # if it's an external image, update below for true
 # better with square images
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://athuscavalini.github.io
+url: https://athus.me
 # your url: http://USERNAME.github.io
 
 permalink: /:title/

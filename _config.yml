@@ -1,9 +1,9 @@
 # main text of home
-name: Niveditha Ram
-bio: 'Physics, Teaching, Engineering.'
+name: Athus Cavalini
+bio: 'Computer Science'
 
 # twitter summary info
-description: A blog about Physics and teaching science
+description: A blog about crazy things
 
 # if it's an external image, update below for true
 # better with square images
@@ -26,24 +26,24 @@ highlighter: rouge
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: NivedithaRam
+twitter: athus
 # google: mygoogle
 # instagram: myinstagram
 #pinterest: annasw
 #linkedin: artiannaswamy
 # youtube: myyoutube
 # spotify: myspotify
-github: NivedithaRam
+github: athuscavalini
 # medium: medium
-email: niveditha.ramasubramanian@stonybrook.edu
+email: athus@mail.com
 
 authors:
-    NivedithaRam:
-        name: Niveditha Ram
-        bio: Physics, Reading, Teaching.
+    AthusCavalini:
+        name: Athus Cavalini
+        bio: Computer Science
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: NivedithaRam
+        twitter: athus
 
 
 # do you want a larger site? change the option below
@@ -56,8 +56,8 @@ width: large
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-# projects: true
-research: true
+projects: true
+# research: true
 teaching: true
 # if you don't need about or blog, comment them out below
 about: true
